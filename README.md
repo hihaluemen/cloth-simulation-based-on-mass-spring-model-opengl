@@ -1,4 +1,4 @@
-# cloth-simulation-based-on-mass-spring-model-in-opengl
+# cloth-simulation-based-on-mass-spring-model-opengl
 A Demo of Cloth Simulation Program.
 <h1>Demonstrations</h1>
 <h3>1</h3>
